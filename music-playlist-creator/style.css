@@ -4,3 +4,12 @@ body {
     padding: 0;
     background-color: #f8f8f8;
 }
+
+header {
+    background-color: #cdcdcd;
+    color: rgb(91, 91, 91);
+    padding: 10px 0 15px 15px;
+    text-align: left;
+    font-size: x-large;
+    font-weight: bold;
+}

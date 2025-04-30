@@ -1,0 +1,473 @@
+{
+    "playlists": [
+            {
+            "playlistID": 0,
+            "playlist_name": "Chill Lounge",
+            "playlist_creator": "DJ Zen",
+            "playlist_art": "https://picsum.photos/id/191/200",
+            "likeCount": 52,
+            "songs": [
+                {
+                "songID": 0,
+                "title": "Track 0",
+                "artist": "Dream Loops",
+                "album": "Smooth Flow",
+                "cover_art": "https://picsum.photos/id/180/200",
+                "duration": "4:53"
+                },
+                {
+                "songID": 1,
+                "title": "Track 1",
+                "artist": "Storm Riders",
+                "album": "Bassline",
+                "cover_art": "https://picsum.photos/id/104/200",
+                "duration": "4:31"
+                },
+                {
+                "songID": 2,
+                "title": "Track 2",
+                "artist": "Synthwave",
+                "album": "Sunrise",
+                "cover_art": "https://picsum.photos/id/145/200",
+                "duration": "5:04"
+                },
+                {
+                "songID": 3,
+                "title": "Track 3",
+                "artist": "Dream Loops",
+                "album": "Bassline",
+                "cover_art": "https://picsum.photos/id/177/200",
+                "duration": "4:11"
+                }
+            ]
+            },
+            {
+            "playlistID": 1,
+            "playlist_name": "Morning Energy",
+            "playlist_creator": "EarlyBird",
+            "playlist_art": "https://picsum.photos/id/28/200",
+            "likeCount": 88,
+            "songs": [
+                {
+                "songID": 4,
+                "title": "Track 4",
+                "artist": "Flowmatic",
+                "album": "Bassline",
+                "cover_art": "https://picsum.photos/id/187/200",
+                "duration": "2:22"
+                },
+                {
+                "songID": 5,
+                "title": "Track 5",
+                "artist": "The Chill Crew",
+                "album": "Bassline",
+                "cover_art": "https://picsum.photos/id/137/200",
+                "duration": "5:58"
+                },
+                {
+                "songID": 6,
+                "title": "Track 6",
+                "artist": "Bright Start",
+                "album": "Sunrise",
+                "cover_art": "https://picsum.photos/id/224/200",
+                "duration": "2:44"
+                },
+                {
+                "songID": 7,
+                "title": "Track 7",
+                "artist": "Bright Start",
+                "album": "Continents",
+                "cover_art": "https://picsum.photos/id/103/200",
+                "duration": "3:16"
+                },
+                {
+                "songID": 8,
+                "title": "Track 8",
+                "artist": "Blue Note",
+                "album": "Sonatas",
+                "cover_art": "https://picsum.photos/id/275/200",
+                "duration": "4:45"
+                }
+            ]
+            },
+            {
+            "playlistID": 2,
+            "playlist_name": "Evening Acoustics",
+            "playlist_creator": "StrumSoul",
+            "playlist_art": "https://picsum.photos/id/34/200",
+            "likeCount": 81,
+            "songs": [
+                {
+                "songID": 9,
+                "title": "Track 9",
+                "artist": "Vocal Point",
+                "album": "Midnight Drive",
+                "cover_art": "https://picsum.photos/id/221/200",
+                "duration": "3:48"
+                },
+                {
+                "songID": 10,
+                "title": "Track 10",
+                "artist": "Flowmatic",
+                "album": "Sonatas",
+                "cover_art": "https://picsum.photos/id/293/200",
+                "duration": "4:11"
+                },
+                {
+                "songID": 11,
+                "title": "Track 11",
+                "artist": "Nomad Sounds",
+                "album": "Smooth Flow",
+                "cover_art": "https://picsum.photos/id/205/200",
+                "duration": "2:04"
+                },
+                {
+                "songID": 12,
+                "title": "Track 12",
+                "artist": "Dream Loops",
+                "album": "Essence",
+                "cover_art": "https://picsum.photos/id/156/200",
+                "duration": "3:30"
+                }
+            ]
+            },
+            {
+            "playlistID": 3,
+            "playlist_name": "Jazz Cafe",
+            "playlist_creator": "JazzMaster",
+            "playlist_art": "https://picsum.photos/id/75/200",
+            "likeCount": 45,
+            "songs": [
+                {
+                "songID": 13,
+                "title": "Track 13",
+                "artist": "Synthwave",
+                "album": "Essence",
+                "cover_art": "https://picsum.photos/id/197/200",
+                "duration": "3:25"
+                },
+                {
+                "songID": 14,
+                "title": "Track 14",
+                "artist": "Flowmatic",
+                "album": "Chart Toppers",
+                "cover_art": "https://picsum.photos/id/145/200",
+                "duration": "2:38"
+                },
+                {
+                "songID": 15,
+                "title": "Track 15",
+                "artist": "Blue Note",
+                "album": "Chart Toppers",
+                "cover_art": "https://picsum.photos/id/172/200",
+                "duration": "3:54"
+                }
+            ]
+            },
+            {
+            "playlistID": 4,
+            "playlist_name": "LoFi Dreams",
+            "playlist_creator": "LoFiWizard",
+            "playlist_art": "https://picsum.photos/id/23/200",
+            "likeCount": 31,
+            "songs": [
+                {
+                "songID": 16,
+                "title": "Track 16",
+                "artist": "Flowmatic",
+                "album": "Sonatas",
+                "cover_art": "https://picsum.photos/id/178/200",
+                "duration": "4:59"
+                },
+                {
+                "songID": 17,
+                "title": "Track 17",
+                "artist": "Nomad Sounds",
+                "album": "Smooth Flow",
+                "cover_art": "https://picsum.photos/id/217/200",
+                "duration": "4:27"
+                },
+                {
+                "songID": 18,
+                "title": "Track 18",
+                "artist": "The Chill Crew",
+                "album": "Bassline",
+                "cover_art": "https://picsum.photos/id/135/200",
+                "duration": "2:20"
+                },
+                {
+                "songID": 19,
+                "title": "Track 19",
+                "artist": "Acoustic Echo",
+                "album": "Essence",
+                "cover_art": "https://picsum.photos/id/123/200",
+                "duration": "5:29"
+                }
+            ]
+            },
+            {
+            "playlistID": 5,
+            "playlist_name": "Rock Anthems",
+            "playlist_creator": "RockHero",
+            "playlist_art": "https://picsum.photos/id/72/200",
+            "likeCount": 43,
+            "songs": [
+                {
+                "songID": 20,
+                "title": "Track 20",
+                "artist": "Storm Riders",
+                "album": "Raw Tracks",
+                "cover_art": "https://picsum.photos/id/299/200",
+                "duration": "3:40"
+                },
+                {
+                "songID": 21,
+                "title": "Track 21",
+                "artist": "Vocal Point",
+                "album": "Bassline",
+                "cover_art": "https://picsum.photos/id/157/200",
+                "duration": "3:35"
+                },
+                {
+                "songID": 22,
+                "title": "Track 22",
+                "artist": "Orchestra Nova",
+                "album": "Continents",
+                "cover_art": "https://picsum.photos/id/117/200",
+                "duration": "5:30"
+                },
+                {
+                "songID": 23,
+                "title": "Track 23",
+                "artist": "Vocal Point",
+                "album": "Raw Tracks",
+                "cover_art": "https://picsum.photos/id/112/200",
+                "duration": "2:32"
+                }
+            ]
+            },
+            {
+            "playlistID": 6,
+            "playlist_name": "Pop Essentials",
+            "playlist_creator": "PopQueen",
+            "playlist_art": "https://picsum.photos/id/128/200",
+            "likeCount": 79,
+            "songs": [
+                {
+                "songID": 24,
+                "title": "Track 24",
+                "artist": "PopQueen",
+                "album": "Chart Toppers",
+                "cover_art": "https://picsum.photos/id/176/200",
+                "duration": "4:23"
+                },
+                {
+                "songID": 25,
+                "title": "Track 25",
+                "artist": "Vocal Point",
+                "album": "Essence",
+                "cover_art": "https://picsum.photos/id/111/200",
+                "duration": "2:54"
+                },
+                {
+                "songID": 26,
+                "title": "Track 26",
+                "artist": "Indigo Minds",
+                "album": "Essence",
+                "cover_art": "https://picsum.photos/id/181/200",
+                "duration": "3:58"
+                }
+            ]
+            },
+            {
+            "playlistID": 7,
+            "playlist_name": "Indie Vibes",
+            "playlist_creator": "IndieKing",
+            "playlist_art": "https://picsum.photos/id/122/200",
+            "likeCount": 67,
+            "songs": [
+                {
+                "songID": 27,
+                "title": "Track 27",
+                "artist": "Indigo Minds",
+                "album": "Raw Tracks",
+                "cover_art": "https://picsum.photos/id/168/200",
+                "duration": "3:21"
+                },
+                {
+                "songID": 28,
+                "title": "Track 28",
+                "artist": "IndieKing",
+                "album": "Unplugged",
+                "cover_art": "https://picsum.photos/id/105/200",
+                "duration": "2:47"
+                },
+                {
+                "songID": 29,
+                "title": "Track 29",
+                "artist": "Blue Note",
+                "album": "Smooth Flow",
+                "cover_art": "https://picsum.photos/id/133/200",
+                "duration": "4:18"
+                },
+                {
+                "songID": 30,
+                "title": "Track 30",
+                "artist": "Vocal Point",
+                "album": "Smooth Flow",
+                "cover_art": "https://picsum.photos/id/172/200",
+                "duration": "3:00"
+                }
+            ]
+            },
+            {
+            "playlistID": 8,
+            "playlist_name": "Hip Hop Heat",
+            "playlist_creator": "RhythmGod",
+            "playlist_art": "https://picsum.photos/id/134/200",
+            "likeCount": 91,
+            "songs": [
+                {
+                "songID": 31,
+                "title": "Track 31",
+                "artist": "RhythmGod",
+                "album": "Legends",
+                "cover_art": "https://picsum.photos/id/119/200",
+                "duration": "3:36"
+                },
+                {
+                "songID": 32,
+                "title": "Track 32",
+                "artist": "Flowmatic",
+                "album": "Max Energy",
+                "cover_art": "https://picsum.photos/id/126/200",
+                "duration": "4:05"
+                },
+                {
+                "songID": 33,
+                "title": "Track 33",
+                "artist": "The Chill Crew",
+                "album": "Raw Tracks",
+                "cover_art": "https://picsum.photos/id/158/200",
+                "duration": "3:59"
+                },
+                {
+                "songID": 34,
+                "title": "Track 34",
+                "artist": "Storm Riders",
+                "album": "Legends",
+                "cover_art": "https://picsum.photos/id/163/200",
+                "duration": "2:41"
+                },
+                {
+                "songID": 35,
+                "title": "Track 35",
+                "artist": "Bright Start",
+                "album": "Raw Tracks",
+                "cover_art": "https://picsum.photos/id/193/200",
+                "duration": "3:43"
+                }
+            ]
+            },
+            {
+            "playlistID": 9,
+            "playlist_name": "Electronic Pulse",
+            "playlist_creator": "ElectroGenie",
+            "playlist_art": "https://picsum.photos/id/199/200",
+            "likeCount": 76,
+            "songs": [
+                {
+                "songID": 36,
+                "title": "Track 36",
+                "artist": "Synthwave",
+                "album": "Electronic Pulse",
+                "cover_art": "https://picsum.photos/id/161/200",
+                "duration": "5:15"
+                },
+                {
+                "songID": 37,
+                "title": "Track 37",
+                "artist": "Flowmatic",
+                "album": "Bassline",
+                "cover_art": "https://picsum.photos/id/189/200",
+                "duration": "3:22"
+                },
+                {
+                "songID": 38,
+                "title": "Track 38",
+                "artist": "ElectroGenie",
+                "album": "Max Energy",
+                "cover_art": "https://picsum.photos/id/167/200",
+                "duration": "3:11"
+                }
+            ]
+            },
+            {
+            "playlistID": 10,
+            "playlist_name": "Classical Calm",
+            "playlist_creator": "Maestro",
+            "playlist_art": "https://picsum.photos/id/190/200",
+            "likeCount": 34,
+            "songs": [
+                {
+                "songID": 39,
+                "title": "Track 39",
+                "artist": "Orchestra Nova",
+                "album": "Sonatas",
+                "cover_art": "https://picsum.photos/id/173/200",
+                "duration": "4:45"
+                },
+                {
+                "songID": 40,
+                "title": "Track 40",
+                "artist": "Maestro",
+                "album": "Sonatas",
+                "cover_art": "https://picsum.photos/id/141/200",
+                "duration": "3:53"
+                },
+                {
+                "songID": 41,
+                "title": "Track 41",
+                "artist": "Peaceful Sounds",
+                "album": "Essence",
+                "cover_art": "https://picsum.photos/id/171/200",
+                "duration": "5:06"
+                }
+            ]
+            },
+            {
+            "playlistID": 11,
+            "playlist_name": "World Beats",
+            "playlist_creator": "GlobeTrotter",
+            "playlist_art": "https://picsum.photos/id/123/200",
+            "likeCount": 65,
+            "songs": [
+                    {
+                        "songID": 42,
+                        "title": "Track 42",
+                        "artist": "Nomad Sounds",
+                        "album": "Continents",
+                        "cover_art": "https://picsum.photos/id/101/200",
+                        "duration": "4:29"
+                    },
+                    {
+                        "songID": 43,
+                        "title": "Track 43",
+                        "artist": "GlobeTrotter",
+                        "album": "World Vibes",
+                        "cover_art": "https://picsum.photos/id/175/200",
+                        "duration": "3:57"
+                    },
+                    {
+                        "songID": 44,
+                        "title": "Track 44",
+                        "artist": "Peaceful Sounds",
+                        "album": "Continents",
+                        "cover_art": "https://picsum.photos/id/132/200",
+                        "duration": "4:13"
+                    }
+                ]
+            }
+        ]
+    }
+    
