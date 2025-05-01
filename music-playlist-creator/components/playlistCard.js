@@ -8,7 +8,7 @@ export function createPlaylistCard(playlist) {
         <p>${playlist.playlist_creator}</p>
         <span>
             <div class="heart" id="heart-${playlist.playlistID}">🩶</div>
-            <div class="like-count">0</div>
+            <div class="like-count">${playlist.likeCount}</div>
         </span>
     `;
 
@@ -16,17 +16,21 @@ export function createPlaylistCard(playlist) {
     const count = card.querySelector('.like-count');
 
     heart.addEventListener('click', (e) => {
-      e.stopPropagation(); // Prevent modal from opening on heart click
+        e.stopPropagation(); // Prevent modal from opening on heart click
+      
+        let currentCount = parseInt(count.textContent, 10);
+      
         if (heart.classList.contains('liked')) {
-            heart.classList.remove('liked');
-            heart.innerHTML = "🩶";
-            count.textContent = '0';
+          heart.classList.remove('liked');
+          heart.innerHTML = "🩶";
+          count.textContent = currentCount - 1;
         } else {
-            heart.classList.add('liked');
-            heart.innerHTML = "❤️";
-            count.textContent = '1';
+          heart.classList.add('liked');
+          heart.innerHTML = "❤️";
+          count.textContent = currentCount + 1;
         }
-    });
+      });
+      
 
     return card;
 }
