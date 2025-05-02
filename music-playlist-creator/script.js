@@ -10,11 +10,10 @@ fetch('./data/data.json')
         const card = createPlaylistCard(playlist);
         container.appendChild(card);
 
-        // Add click listener for modal opening
         card.addEventListener('click', () => {
             openModal(playlist);
         });
-        // Add click listener outside of modal for closing 
+
         modal.addEventListener('click', (event) => {
             if (event.target === modal) {
               modal.style.display = 'none';
