@@ -1,3 +1,36 @@
+html, body {
+  font-family: 'Arial', sans-serif;
+  margin: 0;
+  padding: 0;
+  background-color: #f8f8f8;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+}
+
+header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: #cdcdcd;
+  padding: 10px 20px;
+}
+
+header nav {
+  float: right;
+  padding-right: 20px;
+}
+
+header nav a {
+  margin-left: 20px;
+  text-decoration: none;
+  color: #333;
+  font-weight: bold;
+}
+
+main {
+  flex: 1;
+}
 .featured-layout {
     display: flex;
     flex-wrap: wrap;
@@ -76,3 +109,11 @@
     color: #444;
   }
   
+ 
+footer {
+    text-align: center;
+    padding: 15px 0;
+    background-color: #cdcdcd;
+    color: #555;
+    font-size: 0.9rem;
+}
